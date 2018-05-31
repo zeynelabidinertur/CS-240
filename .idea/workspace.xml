@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30f7d91d-caf0-4941-bbb2-265e475543f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/Homework1_ZeynelabidinErtür.ipynb" afterPath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/Homework1_ZeynelabidinErtür.ipynb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/.ipynb_checkpoints/Homework2_ZeynelabidinErtür-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/.ipynb_checkpoints/Week_4-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/2002FemPreg.dat.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/2002FemPreg.dct" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/2002FemResp.dat.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/2002FemResp.dct" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/Homework1_ZeynelabidinErtür.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/Homework2_ZeynelabidinErtür.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/Homework3_ZeynelabidinErtür.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/Week 6 Exercises.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/Week 7 Exercises.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/first.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/nsfg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/thinkplot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework1_ZeynelabidinErtür/thinkstats2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Introduction_to_Pandas.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Week_2.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/anaconda.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/baseball.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/cd_drag_drop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/cd_prop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/cmd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/jupyter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/open_cmd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/opened_jupyter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/.ipynb_checkpoints/Introduction_to_Numpy-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/.ipynb_checkpoints/Introduction_to_Pandas-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/.ipynb_checkpoints/Week_3_Exercises-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/2002FemPreg.dat.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/2002FemPreg.dct" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/2002FemResp.dat.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/2002FemResp.dct" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/Introduction_to_Numpy.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/Introduction_to_Pandas.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/ReadMe_ofWeek3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/Week_3_Exercises.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/baseball.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/nsfg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/nsfg2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/thinkplot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/thinkstats2.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +57,26 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>adamlar</find>
+      <find>cuceler</find>
+      <find>uzunlar</find>
+      <find>deneme</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Project/Untitled.txt" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -25,9 +85,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
+    <option name="x" value="41" />
     <option name="y" value="24" />
-    <option name="width" value="1315" />
+    <option name="width" value="1325" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -59,13 +119,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
@@ -160,6 +220,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -294,25 +360,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="24" width="1315" height="744" extended-state="6" />
+    <frame x="41" y="24" width="1325" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25801408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -344,5 +410,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Project/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Untitled.txt" />
   </component>
 </project>
